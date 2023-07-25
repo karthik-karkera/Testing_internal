@@ -1,7 +1,7 @@
 {	
 
 	  "TARGET": "https://demo.testfire.net",
-	  "APPLICATION_NAME":"ABC_json",
+	  "APPLICATION_NAME":"AltoroJ_Jenkins",
 	  "JOB_NAME": "ABC_Jenkins_Json_final6",
           "APPSCAN_CREDENTIALS_NAME":"ASE Credentials",
           "APPSCAN_FOLDER_PATH": "ASE/Applications/ABC",
